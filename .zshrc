@@ -30,7 +30,7 @@ alias vim=nvim
 alias dotfiles="/usr/bin/env git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 
 # Editor
-EDITOR=nano
+export EDITOR=nano
 
 # Powerlevel10k Theme
 source ~/.powerlevel10k/powerlevel10k.zsh-theme
