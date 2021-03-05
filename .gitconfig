@@ -6,3 +6,5 @@
 	gpgsign = true
 [alias]
 	logs = log --show-signature
+[init]
+	defaultBranch = master
