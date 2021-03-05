@@ -1,3 +1,8 @@
 [user]
 	email = hilari@hilarimoragrega.com
 	name = Hilari Moragrega
+	signingkey = CEB66D105EBCAE5AC5CB62A9A46A551950DAAB81
+[commit]
+	gpgsign = true
+[alias]
+	logs = log --show-signature
