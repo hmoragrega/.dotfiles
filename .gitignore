@@ -1,1 +1,7 @@
 .dotfiles
+
+# Localhistory plugin VSCode 
+.history
+
+# JetBrains project folder
+.idea

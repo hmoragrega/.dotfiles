@@ -8,3 +8,7 @@
 	logs = log --show-signature
 [init]
 	defaultBranch = master
+[url "ssh://git@gitlab.thunes.com:10022/"]
+	insteadOf = https://gitlab.thunes.com/
+[core]
+	excludesFile = ~/.gitignore
